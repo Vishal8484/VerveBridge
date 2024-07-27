@@ -1,0 +1,27 @@
+<-------------------1.All Imported Module---------------->
+|
+|NOTE:Install the latest version of these Module.
+--import pandas as pd
+--import numpy as np
+--import astropy
+--import joblib 
+--import matplotlib.pyplot as plt
+--import seaborn as sns
+--from sklearn.preprocessing import OneHotEncoder, StandardScaler
+--from sklearn.feature_extraction.text import TfidfVectorizer
+--from sklearn.metrics.pairwise import cosine_similarity
+
+
+<------------------2-Used Technologies------------------->
+|
+--Flask-Python Frame work
+--HTML5,CSS
+--Machine learning
+--Python
+
+<------------------3.Some other Important Tips----------->
+|
+--Basic Knowledge about Recommendation System
+--Types of Recommendation System
+--Evaluation Parameters 
+--Techniques and Algorithms

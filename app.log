@@ -1,0 +1,37 @@
+2024-06-06 09:59:01,949 - __main__ - INFO - Starting the Book Recommendation System
+2024-06-06 09:59:01,949 - astrapy.core.db - INFO - ASTRA_DB_KEYSPACE is not set. Defaulting to 'default_keyspace'
+2024-06-06 09:59:01,949 - astrapy.database - INFO - getting collection names
+2024-06-06 09:59:03,307 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 200 OK"
+2024-06-06 09:59:03,308 - astrapy.database - INFO - finished getting collection names
+2024-06-06 09:59:03,309 - database - INFO - Connected to Astra DB: ['books']
+2024-06-06 09:59:03,309 - astrapy.cursors - INFO - creating iterator on 'books'
+2024-06-06 09:59:03,310 - astrapy.cursors - INFO - finished creating iterator on 'books'
+2024-06-06 09:59:04,448 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:04,793 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:05,166 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:05,592 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:05,954 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:06,394 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:06,774 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:07,390 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:07,911 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:08,385 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:08,866 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:09,407 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:09,947 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:10,380 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:10,778 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:11,137 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:11,731 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:12,381 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:13,010 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:13,379 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:13,749 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:14,101 - httpx - INFO - HTTP Request: POST https://eef27c48-d40e-4643-9629-6c0ac4131b86-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace/books "HTTP/1.1 200 OK"
+2024-06-06 09:59:14,104 - database - INFO - Dataset loaded successfully
+2024-06-06 09:59:14,104 - eda - INFO - Exploring dataset
+2024-06-06 09:59:14,130 - eda - INFO - Plotting distributions
+2024-06-06 09:59:15,255 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-06 09:59:15,260 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-06 09:59:23,955 - preprocess - INFO - Preprocessing data
+2024-06-06 09:59:23,964 - model - INFO - Building recommendation model
