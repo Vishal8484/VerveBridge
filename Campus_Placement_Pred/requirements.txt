@@ -1,0 +1,27 @@
+<-------------------1.All Imported Module---------------->
+|
+|NOTE:NOTE: Install the latest version of this Module.
+--import pandas as pd
+--import numpy as np
+--import astropy
+--import joblib 
+--import matplotlib.pyplot as plt
+--import seaborn as sns
+--import pandas as pd
+--import xgboost as xgb
+--from src.pipelines.predict_pipeline import PredictPipeline
+
+
+
+<------------------2-Used Technologies------------------->
+|
+--Streamlit-Python Frame work
+
+--Machine learning
+--Python
+
+<------------------3.Some other Important Tips----------->
+|
+--Basic Knowledge about Classification Algorithm 
+--Evaluation Parameters 
+--Techniques and Algorithms
